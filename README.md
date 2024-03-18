@@ -1,1 +1,3 @@
-# project
+# Projects
+
+1. Steerable CNN
